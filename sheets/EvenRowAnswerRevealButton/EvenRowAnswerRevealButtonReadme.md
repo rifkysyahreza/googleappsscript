@@ -7,3 +7,6 @@ How to use the script
 6. repeat from step 3 for more button function
 
 note: 1 button = 1 function
+
+tutorial video:
+[![tutorial video even row answer reveal button](https://img.youtube.com/vi/lfBknDR7Gsg/0.jpg)](https://www.youtube.com/watch?v=lfBknDR7Gsg)
